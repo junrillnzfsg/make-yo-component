@@ -1,6 +1,4 @@
-# AngularJS App
-Project was generated with Yeoman generator
-[generator-angular-app](https://www.npmjs.com/package/generator-angular-app)
+# Make Yo! Component
 
 # Requirements
 - NodeJS v4.0 or newer
@@ -96,7 +94,7 @@ npm run e2e        : run e2e tests
 - List of available values: [show](https://github.com/ai/browserslist#queries)
 
 # Config file 'config.json'
-```  
+```
 buildDir     : Directory where built page will be placed (default 'dist')
 autoprefixer : Configuration of autoprefixer
 ```
@@ -143,7 +141,7 @@ Use linter in your text editor for JavaScript, SCSS and HTML.
 - `@include retina-inline-asset($name, $ext: 'png')` mixin for generating css with background
   image encoded in base64 for non-retina and retina screens used in scssSprite.
 - `@include retina-asset($name, $ext: 'png')` mixin for generating stile with background
-  image for non-retina and retina screens.		
+  image for non-retina and retina screens.
 
 # Hot Module Replacement (experimental)
 HMR is not enabled for any file by default. To enable HMR for particular file add following code
